@@ -15,7 +15,7 @@ dependencies {
     // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
     testImplementation("org.seleniumhq.selenium:selenium-java:4.16.1")
     // https://mvnrepository.com/artifact/org.testng/testng
-    testImplementation("org.testng:testng:7.9.0")
+    testImplementation("org.testng:testng:7.6.0")
 }
 
 test {
